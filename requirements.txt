@@ -1,0 +1,8 @@
+streamlit
+cairosvg
+gdown
+pillow
+plotly
+lxml
+pandas
+matplotlib
