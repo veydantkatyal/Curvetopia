@@ -122,12 +122,12 @@ The dataset comprises pairs of input and output files. Each input file represent
 Here are some example pairs you can use to test the application:
 
 **Example 1**
-- **Input:** [Input](https://drive.google.com/file/d/1MLtwF0Hsq9RuVKbzuT649tQKda0frdDz/view?usp=sharing)
-- **Output:**[Output](https://drive.google.com/file/d/1MLtwF0Hsq9RuVKbzuT649tQKda0frdDz/view?usp=sharing)
+- **Input:** [Input](https://drive.google.com/file/d/1MLtwF0Hsq9RuVKbzuT649tQKda0frdDz/view?usp=sharin)
+- **Output:**[Output](https://drive.google.com/file/d/1kJ3lMqjE74Eg9YAaamyhqet_nP0NdpMX/view?usp=sharing)
 
 **Example 2**
-- **Input:** [Input](https://drive.google.com/file/d/1SYMOKqe3psGIfYuLfPyxlkV6Ra2l7RNK/view?usp=drive_link)
-- **Output:** [Output](https://drive.google.com/file/d/1frWuq8R5RnoSngPjut4KuDde3snKyLDt/view?usp=drive_link)
+- **Input:** [Input](https://drive.google.com/file/d/1U4hl7m-KPMvqShjwvkqS-9t_85u-_QHd/view?usp=sharing)
+- **Output:** [Output](https://drive.google.com/file/d/1L76izM3jr-g_qMYKzk6NtbXL2KbuGoA-/view?usp=sharing)
 
 
 ## Technologies Used
