@@ -150,7 +150,7 @@ Contributions are welcome! To contribute:
 
 2. **Clone Your Fork**
    ```bash
-    git clone https://github.com/yourusername/curvetopia.git
+    git clone https://github.com/veydantkatyal/curvetopia.git
 3. **Create New Branch**
    - Click the 'Fork' button at the top right of the repository page.
 
