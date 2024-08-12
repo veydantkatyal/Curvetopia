@@ -53,7 +53,7 @@ View the enclosed PDF for understanding the problem statement
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/curvetopia.git
+   git clone https://github.com/veydantkatyal/curvetopia.git
    cd curvetopia
 2. **Create a Virtual Environment**
 
